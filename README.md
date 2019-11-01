@@ -1,5 +1,5 @@
 # Sensorium_ModularVest
-Sensorium (Radical Embodiment) is a project consisting in a modular illuminated vest that can display abstract information.
+***Sensorium (Radical Embodiment)*** is a project consisting in a modular illuminated vest that can display abstract information.
 
 ***This Repository contains all the files needed to reproduce the device.***
 ***This Repository is merely destined to the technological part of the project.***
@@ -11,9 +11,13 @@ If any other information is needed, please contact with the repository owner (pa
 
 Sensorium is the first prototype for the material tech part of the final project of Gabriel G. Regués. It consist on a modular illuminated vest conformed by an unespecific number of *Arduino* based modules connected to display specific information through an I2C net.
 
-![alt text](https://github.com/PabloDMM/Sensorium_ModularVest/blob/master/01_Resources/SEN_DesignPhase.png)
+***Watch the Video by pressing the header:***
 
 [![Watch the video](https://github.com/PabloDMM/Sensorium_ModularVest/blob/master/01_Resources/SEN_VideoHeader.png)](https://vimeo.com/330038499)
+
+
+![alt text](https://github.com/PabloDMM/Sensorium_ModularVest/blob/master/01_Resources/SEN_DesignPhase.png)
+
 
 As escribed in the final essay:
 
@@ -24,8 +28,8 @@ Este proyecto es una continuación de un proyecto anterior realizado a finales d
 
 The system is based on a I2C net of *Arduino Nano* based modules that control 10 WS212B RGB LEDs each. The aim is to display abstract information incoming from a *Tensorflow* software system running on a PC based on global population database.
 
-![alt text](https://github.com/PabloDMM/Sensorium_ModularVest/blob/master/01_Resources/SEN_SystemDiagram_01.1.png)
-![alt text](https://github.com/PabloDMM/Sensorium_ModularVest/blob/master/01_Resources/SEN_SystemDiagram_02.2.png)
+![alt text](https://github.com/PabloDMM/Sensorium_ModularVest/blob/master/01_Resources/SEN_SystemDiagram_01.1.jpg)
+![alt text](https://github.com/PabloDMM/Sensorium_ModularVest/blob/master/01_Resources/SEN_SystemDiagram_02.2.jpg)
 
 ### Arduino Modules
 
